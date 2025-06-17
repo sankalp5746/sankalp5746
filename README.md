@@ -1,22 +1,16 @@
-# Hi there 👋
 
-- 🔭 I’m currently working on Python And Frappe.
-- 🌱 I’m currently learning Typescript and Next Js.
-- 💬 Ask me about Javascript.
-- 📫 How to reach me: sankalpbendale2002@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Coding Never becomes easier , you become better.
-
-<h1 align="center">Hi 👋, I'm Harsh Bhanushali</h1>
+<h1 align="center">Hi 👋, I'm Sankalp Bendale</h1>
 <h3 align="center">🚀 Passionate developer building intelligent and efficient solutions using Python and Web Technologies.</h3>
 
-- 🔭 I’m currently working on **Cafe Management System**
+- 🔭 I’m currently working on **Python And Frappe**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Typescript and Next Js**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and Javascript**
 
-- 📫 How to reach me **harshbhanu0709@gmail.com**
+- 📫 How to reach me **sankalpbendale2002@gmail.com**
+
+- ⚡ Fun fact: Coding Never becomes easier , you become better.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
